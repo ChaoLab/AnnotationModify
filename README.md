@@ -1,4 +1,4 @@
-# CombinedAnnotation
+# AnnotationModify
 Combined annotation of GhostKOALA, KAAS, and eggNOG-mapper    
 This pipeline contains 1) all the scripts to combine the annotation result of GhostKOALA, KAAS, and eggNOG-mapper; 2) all the scripts to find the top hits of BLASTP result.        
 
